@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
     },
     {
       name: 'YouTube',
-      url: 'https://youtube.com/@hanslacida',
+      url: 'https://www.youtube.com/@DexterAudits',
       icon: Youtube,
     },
     {
