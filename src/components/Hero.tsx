@@ -28,7 +28,7 @@ export const Hero: React.FC = () => {
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-slide-up">
           <a
-            href="#"
+            href="https://tidycal.com/hanslacida/10-private-strategy-session-with-hans"
             className="inline-flex items-center px-8 py-4 bg-primary-600 hover:bg-primary-700 text-white font-semibold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
           >
             <Calendar className="mr-2 h-5 w-5" />
