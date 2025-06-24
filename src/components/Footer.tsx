@@ -51,7 +51,7 @@ export const Footer: React.FC = () => {
         
         <div className="border-t border-gray-800 pt-8">
           <p className="text-gray-500">
-            © 2025 Hanzel Lacida. All rights reserved.
+            © 2025 Hanzel Lacida |ZELDIGITAL® All rights reserved.
           </p>
         </div>
       </div>
